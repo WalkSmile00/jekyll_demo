@@ -1,8 +1,3 @@
----
-　　layout: default
-　　title: 搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
----
-
 ![github](http://image.beekka.com/blog/201208/bg2012082502.jpg)
 #搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
 喜欢写Blog的人，会经历三个阶段。
@@ -238,4 +233,7 @@ $ mkdir _posts
 
 ##本篇文章摘自网络
 [阮一峰《搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门》](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+
+
+
 
