@@ -1,8 +1,10 @@
+# 搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
+
 
 
 ![github](http://image.beekka.com/blog/201208/bg2012082502.jpg)
 
-# 搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门
+# 
 
 喜欢写Blog的人，会经历三个阶段。
 
