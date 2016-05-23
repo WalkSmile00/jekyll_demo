@@ -4,9 +4,8 @@ layout: page
 comments: no
 ---
 
-菜鸟程序猿一头，
-目前专攻PHP方向开发，
-接受一切教诲和指导，希望能努力提升自己，帮助他人。
+菜鸟程序猿一头，目前专攻 PHP 方向开发	
+接受一切教诲和指导，希望能努力提升自己，帮助他人	
 
 ----
 
@@ -17,4 +16,3 @@ comments: no
 github : [walkwu](https://github.com/walkwu)        
 
 ----
-
