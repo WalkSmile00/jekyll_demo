@@ -1,7 +1,6 @@
 permalink: /:year/:month/:day/:title/
 baseurl: /jekyll_demo
 author: walkwu
-highlighter: pygments
 exclude: ["Rakefile", "README.md"]
 safe: true
 paginate: 16
